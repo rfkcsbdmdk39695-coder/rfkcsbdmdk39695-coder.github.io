@@ -1,0 +1,26 @@
+{
+  "name": "RFKC Business OS",
+  "short_name": "RFKC",
+  "description": "Robson's Family Karate Club — Business Operating System",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#080d18",
+  "theme_color": "#c41e3a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='36' fill='%23c41e3a'/%3E%3Ctext x='50%25' y='52%25' font-size='110' text-anchor='middle' dominant-baseline='central'%3E%F0%9F%A5%8B%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='96' fill='%23c41e3a'/%3E%3Ctext x='50%25' y='52%25' font-size='300' text-anchor='middle' dominant-baseline='central'%3E%F0%9F%A5%8B%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["business", "productivity"]
+}
